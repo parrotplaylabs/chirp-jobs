@@ -105,4 +105,4 @@ Contact us at:
 
 ## License
 
-MIT — see [LICENSE](LICENSE) or [LICENSE.md](LICENSE.md).
+MIT — see [LICENSE.md](LICENSE.md).
