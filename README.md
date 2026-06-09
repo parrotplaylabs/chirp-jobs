@@ -8,6 +8,8 @@ No database required. Configure the board via environment variables in `.env`.
 
 Built for freelance recruiters, small companies, community job boards, and conference or event hiring pages.
 
+**[Watch the video demo](https://drive.proton.me/urls/JWSMWJQ1F4#HKYh2r3ED9JK)**
+
 ## Features
 
 - Public job listings with search and category/location filters
